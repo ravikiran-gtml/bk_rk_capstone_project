@@ -56,6 +56,28 @@ inventing debt metrics).
 - Exploratory Data Analysis and Unsupervised Clustering: Hands-On Exploratory Data Analysis with Python by Suresh Kumar Mukhiya and Usman Ahmed
 - Baseline Classification Modeling and Evaluation: An Introduction to Statistical Learning with Applications in Python (ISLP) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor
 
+#### Repository Structure
+Capstone Project/
+
+├── README.md
+
+├── project_eda.ipynb
+
+├── unsupervised_clustering_layer.ipynb
+
+├── visualization.ipynb
+
+├── model.ipynb
+
+#### Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Jupyter Notebook
+
 ##### Contact and Further Information
 
 For questions regarding the verification framework, pipeline execution, or replication datasets, please contact:
